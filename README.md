@@ -88,7 +88,7 @@
 
   <ul>
 
-	<li><a href="https://yunzhy.github.io/Test/简介.html">自序</a></li>
+	<li><a href="https://swq666666.github.io/Test/简介.html">自序</a></li>
 	<li>
 	<a href="https://github.com/Yunzhy/yunzhy.github.io/tree/main/Test">作业</a>
 	</li>
@@ -97,7 +97,7 @@
 
 <!-- 页脚 -->
   <footer>
-   @ 2022 designed by  Yun_zhy
+   @ 2022 designed by  swq666666
   </footer>
  </body>
 </html>
