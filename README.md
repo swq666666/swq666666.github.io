@@ -90,7 +90,7 @@
 
 	<li><a href="https://swq666666.github.io/Test/简介.html">自序</a></li>
 	<li>
-	<a href="https://github.com/Yunzhy/yunzhy.github.io/tree/main/Test">作业</a>
+	<a href="https://github.com/swq666666/swq666666/blod/main/README.md">作业</a>
 	</li>
     <li><a href="picture/qrcode_chrome.png">二维码</a></li>
   </ul>
