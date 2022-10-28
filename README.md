@@ -14,7 +14,7 @@
   <style type="text/css">
 
   body{
-      background:url(../picture/p1.jpg);
+      background:url(../main/picture.md);
 	  font-size:20px;
 	  font-family:方正舒体;
   }
@@ -77,7 +77,7 @@
 
 <!--  个人头像的设置 -->
   <div id="picture" class="">
-	<img src="https://github.com/swq666666/swq666666.github.io/blob/main/picture.md" width="" height="" border="0" alt="">
+	<img src="../main/picture.md" width="" height="" border="0" alt="">
   </div>
 
 <!-- 个人ID -->
