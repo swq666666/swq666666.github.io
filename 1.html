@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+
+<!-- 二十以内的加减法 -->
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+
+
+  <style type="text/css">
+	
+	input{
+	    padding:1%;
+		margin:2.5%;
+	}
+	input #right{
+	    margin-left:30%;
+	}
+	button{
+	    padding:2%;
+		margin-left:5%;
+	}
+  </style>
+
+
+ </head>
+
+ <body>
+
+<!--   题目div区 -->
+  <div id="problem" class="">
+	   <input id="left" >
+	   <span class="">+</span>
+	   <input id="right">
+  </div>
+
+<!--   答案div区 -->
+  <div id="answer" class="">
+		A :  <input type="button" id="A">
+		B :  <input type="button" id="B">
+		C :  <input type="button" id="C">
+		D :  <input type="button" id="D">	
+  </div>
+
+ <script type="text/javascript">
+
+//产生随机数
+       var num1=parseInt(10* Math.random());
+       var num2=parseInt(10* Math.random());
+       
+
+
+ //获取元素，给元素赋值产生的随机数
+		var num_1=document.querySelector("input#left");
+		num_1.value=num1;
+		var num_2=document.querySelector("input#right");
+		num_2.value=num2;
+
+
+		answers=document.querySelectorAll("div#answer input")
+        answer=num1+num2;
+        var a=3*Math.random()+1;
+        alter(a);
+        answers[a].value=answer;
+		for (var i = 0;i < 4 ;i ++ ){
+            
+        }
