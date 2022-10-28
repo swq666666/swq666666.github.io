@@ -77,7 +77,7 @@
 
 <!--  个人头像的设置 -->
   <div id="picture" class="">
-	<img src="../picture/p3.jpg" width="" height="" border="0" alt="">
+	<img src="https://github.com/swq666666/swq666666.github.io/blob/main/picture.md" width="" height="" border="0" alt="">
   </div>
 
 <!-- 个人ID -->
