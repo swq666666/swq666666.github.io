@@ -92,7 +92,7 @@
 	<li>
 	<a href="https://github.com/swq666666/swq666666.github.io/blob/main/1.html">作业</a>
 	</li>
-    <li><a href="[picture/qrcode_chrome.png](https://user-images.githubusercontent.com/113151783/198480638-10541ddc-1d39-4c10-b826-8daa68ae94da.jpg)">二维码</a></li>
+    <li><a href="https://user-images.githubusercontent.com/113151783/198480638-10541ddc-1d39-4c10-b826-8daa68ae94da.jpg">二维码</a></li>
   </ul>
 
 <!-- 页脚 -->
