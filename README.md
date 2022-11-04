@@ -1,5 +1,3 @@
-
-<!doctype html>
 <html lang="en">
 
  <head>
@@ -77,7 +75,7 @@
 
 <!--  个人头像的设置 -->
   <div id="picture" class="">
-	<img src="../main/picture.md" width="" height="" border="0" alt="">
+	<img src="https://user-images.githubusercontent.com/113151783/198480638-10541ddc-1d39-4c10-b826-8daa68ae94da.jpg" width="" height="" border="0" alt="">
   </div>
 
 <!-- 个人ID -->
@@ -88,7 +86,7 @@
 
   <ul>
 
-	<li><a href="https://github.com/swq666666/swq666666.github.io">自序</a></li>
+	<li><a href="https://github.com/swq666666/swq666666.github.io">主页</a></li>
 	<li>
 	<a href="https://github.com/swq666666/swq666666.github.io/blob/main/1.html">作业</a>
 	</li>
