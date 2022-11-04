@@ -81,8 +81,8 @@
   </div>
 
 <!-- 个人ID -->
-  <h1>不如我   便带你去看海<br></h1>
-  <p>向世界的远岸   披覆你我呐喊<br></p>
+  <h1>==================<br></h1>
+  <p>心若向阳   无畏悲伤<br></p>
 
 <!--   创建无序列表，作为导航 -->
 
@@ -92,12 +92,12 @@
 	<li>
 	<a href="https://github.com/swq666666/swq666666.github.io/blob/main/1.html">作业</a>
 	</li>
-    <li><a href="picture/qrcode_chrome.png">二维码</a></li>
+    <li><a href="[picture/qrcode_chrome.png](https://user-images.githubusercontent.com/113151783/198480638-10541ddc-1d39-4c10-b826-8daa68ae94da.jpg)">二维码</a></li>
   </ul>
 
 <!-- 页脚 -->
   <footer>
-   @ 2022 designed by  swq666666
+          designed by  swq666666
   </footer>
  </body>
 </html>
