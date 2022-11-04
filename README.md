@@ -14,7 +14,7 @@
   <style type="text/css">
 
   body{
-      background:url(../main/picture.md);
+      background:red;
 	  font-size:20px;
 	  font-family:方正舒体;
   }
